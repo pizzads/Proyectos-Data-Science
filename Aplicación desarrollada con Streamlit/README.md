@@ -1,5 +1,5 @@
-# sprint-7
- Sprint 7 - Project.
+# Aplicación web desarrollada con Streamlit
+ Project using Streamlit.
 
  # Análisis de Vehículos Usados en EE. UU.
 
